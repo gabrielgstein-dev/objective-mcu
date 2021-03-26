@@ -1,1 +1,3 @@
-# frontend-challenge
+npm intall
+
+npm start
